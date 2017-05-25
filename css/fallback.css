@@ -1,0 +1,5 @@
+/* LANGUAGE FALLBACK IN CASE THE BROWSER DO NOT SUPPORT JAVASCRIPT */
+
+:lang(es) {
+    display: none !important;
+}
